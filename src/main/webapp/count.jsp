@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <title>Lê Việt Hoàng</title>
+    <title>Nguyen Tien Viet</title>
 </head>
 <body>
     <h1>Bảng điền thông tin</h1>
